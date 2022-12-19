@@ -14,7 +14,7 @@ I drew this to represent shading and lighting techniques in digital drawing in A
 ## Star Wars - Pikachulegacy
 ![Star Wars - Pikachulegacy](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/StarWaras%20Pikachu%20Legacy.png)
 
-This is a made up movie poster that I designed just for fun in Adobe Photoshop.
+This is a made up movie poster that I designed just for fun in Adobe Photoshop. It was also one of the most difficult designs i have ever made due to the complexity and diversity of techniques used such as color balance, smudging, lighting and shading.
 
 ## Business Card
 ![Business card](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/Bunsiness%20Card.png)
@@ -25,3 +25,10 @@ I made these business cards to a brazilian nurse
 ![Lepidus](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/LEPIDUS.png)
 
 This is a complete project of a clhothing brand logo i made that comes with a [Visual Identity Manual](https://dglb26w8rx2ld.cloudfront.net/000_clients/3503322/file/x22349WodG2cED79.pdf)
+
+## Contact me
+Feel free to contact me if you have any doubts or suggestions about any of the projects in this portfolio or in my github profile!
+
+Email: viniciusgomesrs@hotmail.com
+
+Connect with me at linkedin
