@@ -9,7 +9,7 @@ This is a digital cartoon drawing of the lawyer version of myself made in Adobe 
 ## Gum Shadow
 ![Gum Shadow](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/shadow%20gumball.png)
 
-I drew this to represent shading and lighting techniques in digital drawing in Adobe Photoshop.
+I drew this to train shading and lighting techniques in digital drawing in Adobe Photoshop.
 
 ## Star Wars - Pikachulegacy
 ![Star Wars - Pikachulegacy](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/StarWaras%20Pikachu%20Legacy.png)
