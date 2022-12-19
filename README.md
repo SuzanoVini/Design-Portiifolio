@@ -19,12 +19,12 @@ This is a made up movie poster that I designed just for fun in Adobe Photoshop. 
 ## Business Card
 ![Business card](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/Bunsiness%20Card.png)
 
-I made these business cards to a brazilian nurse
+I made these business cards to a brazilian nurse.
 
 ## Lepidus
 ![Lepidus](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/LEPIDUS.png)
 
-This is a complete project of a clhothing brand logo i made that comes with a [Visual Identity Manual](https://dglb26w8rx2ld.cloudfront.net/000_clients/3503322/file/x22349WodG2cED79.pdf)
+This is a complete project of a clhothing brand logo i made that comes with a [Visual Identity Manual](https://dglb26w8rx2ld.cloudfront.net/000_clients/3503322/file/x22349WodG2cED79.pdf). This is my favorite project and also the one that took looger to finish, because it goes beyond the design it self, it also includes subjective matters, such as logo and name meaning and the image you want to transmit with it making it effective to reach the target audience.
 
 ## Contact me
 Feel free to contact me if you have any questions or suggestions about any of the projects in this portfolio or in my github profile!
