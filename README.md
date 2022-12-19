@@ -27,7 +27,7 @@ I made these business cards to a brazilian nurse
 This is a complete project of a clhothing brand logo i made that comes with a [Visual Identity Manual](https://dglb26w8rx2ld.cloudfront.net/000_clients/3503322/file/x22349WodG2cED79.pdf)
 
 ## Contact me
-Feel free to contact me if you have any doubts or suggestions about any of the projects in this portfolio or in my github profile!
+Feel free to contact me if you have any questions or suggestions about any of the projects in this portfolio or in my github profile!
 
 Email: viniciusgomesrs@hotmail.com
 
