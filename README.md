@@ -1,5 +1,5 @@
 # Design-Portiifolio 🎨
-## This repository contains some of the designs i made and the .psd and .ai files are all available to download so that and see how the designs were made. Hope you enjoy!
+## This repository contains some of the designs i made and the .psd and .ai files are all available to download so that it can be seen how the designs were made. Hope you enjoy!
 
 ## Cartoon me
 ![Cartoon me](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/Cartoon%20Me.png)
