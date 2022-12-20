@@ -13,6 +13,7 @@ This is a made up movie poster that I designed just for fun in Adobe Photoshop. 
 
 ## *Gum Shadow*
 ![Gum Shadow](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/shadow%20gumball.png)
+It was drew to tain lighting and shading techniques in digital painting.
 
 ## *Minimalist arts*
 ![OnePunchMan](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/Minimalist%20OnePunchMan.png)
