@@ -1,5 +1,5 @@
-# Design-Portiifolio 🎨
-## This repository contains some of the designs i made and the .psd and .ai files are all available to download so that it can be seen how the designs were made. Hope you enjoy!
+# Art/Design - Portiifolio 🎨
+## This repository contains some of the artworks I made withs its descriptions, and the .psd and .ai files are all available to download so that it can be seen how the designs were made. Hope you enjoy!
 
 ## *Cartoon me*
 ![Cartoon me](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/Cartoon%20Me.png)
@@ -34,7 +34,7 @@ I made these business cards to a brazilian nurse.
 ## *Golden Hour Sea*
 ![Golden Hour Sea](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/Golden%20Hour%20Sea.jpeg)
 
-I took this picture of the sunrise at the Beach in Canavieiras-BA, Brazil, in 2016 with an iphone 5 camera.
+I took this picture of the sunrise at the Beach in Canavieiras-BA, Brazil, in 2016 with an iphone 5 camera, at the golden hour/magic hour.
 
 ## *Lepidus*
 ![Lepidus](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/LEPIDUS.png)
