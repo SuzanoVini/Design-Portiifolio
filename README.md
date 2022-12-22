@@ -31,6 +31,11 @@ I drew these minimalist arts using only Geometric primitive shapes in Adobe Illu
 
 I made these business cards to a brazilian nurse.
 
+## *Golden Hour Sea*
+![Golden Hour Sea](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/Golden%20Hour%20Sea.jpeg)
+
+I took this picture of the sunrise at the Beach in Canavieiras-BA, Brazil, in 2016 with an iphone 5 camera.
+
 ## *Lepidus*
 ![Lepidus](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/LEPIDUS.png)
 
