@@ -39,7 +39,12 @@ I took this picture of the sunrise at the Beach in Canavieiras-BA, Brazil, in 20
 ## *Lepidus*
 ![Lepidus](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/LEPIDUS.png)
 
-This is a complete project of a clhothing brand logo I made that comes with a [Visual Identity Manual](https://dglb26w8rx2ld.cloudfront.net/000_clients/3503322/file/x22349WodG2cED79.pdf). This is my favorite project and also the one that took the longest to finish, because it goes beyond the design it self, it also includes subjective matters, such as logo and name meaning and the image you want to transmit with it making it effective to reach the target audience.
+This is a complete project of a clhothing brand logo I made that comes with a [Visual Identity Manual](https://dglb26w8rx2ld.cloudfront.net/000_clients/3503322/file/x22349WodG2cED79.pdf). This is one of my favorite projects because it goes beyond the design it self, it also includes subjective matters, such as logo and name meaning and the image you want to transmit with it making it effective to reach the target audience.
+
+## *My Wedding*
+![My Wedding](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/logo%20casamento%20escura.png)
+
+This is also a complete project I made for my brother's and I double wedding party invitation, which also comes with a [Visual Identity Manual](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/Manual%20de%20identidade%20visual%20Casamento.pdf). This was the one that I enjoyed the most making and it has a emotional meaning to me. Since I am brazilian it is all written in portuguese!
 
 ## Contact me
 Feel free to contact me if you have any questions or suggestions about any of the projects in this portfolio or in my github profile!
