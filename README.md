@@ -39,7 +39,7 @@ This is a complete project of a clhothing brand logo I made that comes with a [V
 ## *My Wedding*
 ![My Wedding](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/logo%20casamento%20escura.png)
 
-This is also a complete project I made for my brother's and I double wedding party invitation, which also comes with a [Visual Identity Manual](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:c1393d22-5a93-44b3-905b-be21f64cf772). This was the one that I enjoyed the most making and it has a emotional meaning to me. Since I am brazilian it is all written in portuguese!
+This is also a complete project I made for my brother's and mine double wedding party invitation, which also comes with a [Visual Identity Manual](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:c1393d22-5a93-44b3-905b-be21f64cf772). This was the one that I enjoyed the most making and it has a emotional meaning to me. Since I am brazilian it is all written in portuguese!
 
 ## *KPU Shuttle Bus*
 ![KPU Shuttle Bus](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/red%20bus%20logo.png)
