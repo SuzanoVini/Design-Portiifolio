@@ -1,5 +1,5 @@
 # Art/Design - Portiifolio 🎨
-## This repository contains some of the artworks I made with its descriptions, and the .psd and .ai files are all available to download so that it can be seen how the designs were made. Hope you enjoy!
+## This repository contains some of the artworks I made with its descriptions, and the .psd, .ai, and .fig files are all available to download so that it can be seen how the designs were made. Hope you enjoy!
 
 ## *Cartoon me*
 ![Cartoon me](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/Cartoon%20Me.png)
@@ -39,7 +39,12 @@ This is a complete project of a clhothing brand logo I made that comes with a [V
 ## *My Wedding*
 ![My Wedding](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/logo%20casamento%20escura.png)
 
-This is also a complete project I made for my brother's and I double wedding party invitation, which also comes with a [Visual Identity Manual](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/Manual%20de%20identidade%20visual%20Casamento.pdf). This was the one that I enjoyed the most making and it has a emotional meaning to me. Since I am brazilian it is all written in portuguese!
+This is also a complete project I made for my brother's and I double wedding party invitation, which also comes with a [Visual Identity Manual](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:c1393d22-5a93-44b3-905b-be21f64cf772). This was the one that I enjoyed the most making and it has a emotional meaning to me. Since I am brazilian it is all written in portuguese!
+
+## *KPU Shuttle Bus*
+![KPU Shuttle Bus](https://github.com/SuzanoVini/Design-Portiifolio/blob/main/red%20bus%20logo.png)
+
+This project is a prototype and mockup for an app for the Kwantlen Polytechnic University Shuttle Bus which can be checked [here](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:9ad5d321-1714-41c0-8321-621e6b3515e9).
 
 ## Contact me
 Feel free to contact me if you have any questions or suggestions about any of the projects in this portfolio or in my github profile!
